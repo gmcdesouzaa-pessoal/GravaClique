@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GravaClique</string>
+    <string name="descricao_servico">Permite ao GravaClique gravar os toques que você faz na tela e repeti-los quantas vezes você escolher. O app não lê o conteúdo da tela e não envia nada para a internet.</string>
+</resources>
